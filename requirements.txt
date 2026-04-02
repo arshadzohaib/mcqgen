@@ -4,3 +4,6 @@ streamlit
 python-dotenv
 PyPDF2
 ollama
+
+
+-e .
