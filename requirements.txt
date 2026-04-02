@@ -1,0 +1,5 @@
+meta llama 
+langchain 
+streamlit 
+python-dotenv
+pypdf2
