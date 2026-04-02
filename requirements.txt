@@ -1,5 +1,6 @@
-meta llama 
-langchain 
-streamlit 
+langchain
+langchain-community
+streamlit
 python-dotenv
-pypdf2
+PyPDF2
+ollama
